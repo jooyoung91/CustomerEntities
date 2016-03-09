@@ -1,0 +1,10 @@
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\CustomerEntities.dll.config
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\CustomerEntities.dll
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\CustomerEntities.pdb
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\EntityFramework.dll
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\EntityFramework.xml
+C:\VS Project\CustomerEntities\CustomerEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS Project\CustomerEntities\CustomerEntities\obj\Debug\CustomerEntities.csprojResolveAssemblyReference.cache
+C:\VS Project\CustomerEntities\CustomerEntities\obj\Debug\CustomerEntities.dll
+C:\VS Project\CustomerEntities\CustomerEntities\obj\Debug\CustomerEntities.pdb

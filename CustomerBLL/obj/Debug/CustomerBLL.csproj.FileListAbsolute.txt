@@ -1,0 +1,11 @@
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\CustomerBLL.dll
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\CustomerBLL.pdb
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\CustomerDAL.dll
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\CustomerEntities.dll
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\EntityFramework.dll
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\CustomerDAL.pdb
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\CustomerEntities.pdb
+C:\VS Project\CustomerEntities\CustomerBLL\bin\Debug\EntityFramework.xml
+C:\VS Project\CustomerEntities\CustomerBLL\obj\Debug\CustomerBLL.csprojResolveAssemblyReference.cache
+C:\VS Project\CustomerEntities\CustomerBLL\obj\Debug\CustomerBLL.dll
+C:\VS Project\CustomerEntities\CustomerBLL\obj\Debug\CustomerBLL.pdb

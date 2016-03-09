@@ -1,0 +1,12 @@
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\CustomerDAL.dll.config
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\CustomerDAL.dll
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\CustomerDAL.pdb
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\CustomerEntities.dll
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\EntityFramework.dll
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\CustomerEntities.pdb
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\EntityFramework.xml
+C:\VS Project\CustomerEntities\CustomerDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\VS Project\CustomerEntities\CustomerDAL\obj\Debug\CustomerDAL.csprojResolveAssemblyReference.cache
+C:\VS Project\CustomerEntities\CustomerDAL\obj\Debug\CustomerDAL.dll
+C:\VS Project\CustomerEntities\CustomerDAL\obj\Debug\CustomerDAL.pdb

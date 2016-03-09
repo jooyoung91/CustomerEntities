@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<br />
+<br />
+
+<div ng-app="mycustomerApp" ng-controller="customerCtrl">
+    <div class="container">
+        <div ng-include="'/Templates/list_.html'">list</div>
+        <div ng-include="'/Templates/Create_.html'">create</div>
+    </div>
+
+</div>
